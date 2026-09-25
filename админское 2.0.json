@@ -352,7 +352,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "Германия",
+    "remarks": "🇩🇪Германия",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -1061,7 +1061,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "Нидерланды",
+    "remarks": "🇳🇱Нидерланды",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -1304,7 +1304,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "Польша",
+    "remarks": "🇵🇱Польша",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -1899,7 +1899,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "США",
+    "remarks": "🇺🇸США",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -2050,7 +2050,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "Финляндия",
+    "remarks": "🇫🇮Финляндия",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
@@ -2263,7 +2263,7 @@
         "tag": "block"
       }
     ],
-    "remarks": "Швеция",
+    "remarks": "🇸🇪Швеция",
     "routing": {
       "domainStrategy": "IPIfNonMatch",
       "rules": [
